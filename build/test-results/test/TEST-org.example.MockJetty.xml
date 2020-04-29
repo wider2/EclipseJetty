@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MockJetty" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-29T16:45:39" hostname="Alexei-PC" time="13.877">
+  <properties/>
+  <testcase name="testNegative" classname="org.example.MockJetty" time="13.877"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
